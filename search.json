@@ -20,13 +20,43 @@
     ]
   },
   {
+    "objectID": "konzeption.html",
+    "href": "konzeption.html",
+    "title": "2  Konzeption",
+    "section": "",
+    "text": "2.1 Projektmanagement\nFür das Projektmanagement wurde ein Projekt auf GitHub eingerichtet. Zusätzlich wurde mit GitHub Projects gearbeitet. Hier wurden Aufgaben in einem Kanban Board angelegt, sodass immer ein Überblick über alle aktuellen Aufgaben gegeben war. Eine übersichtliche Ordnerstruktur in GitHub und die Nutzung von GitHub Desktop sorgten zudem für eine reibungslose Zusammenarbeit an Dokumenten und Code.\nDie Kommunikation fand meist über WhatsApp für kleinere Absprachen oder per Telefonat über Discord für größere Meetings statt. Auch nach den Präsenzterminen wurde bei Bedarf die Zeit vor Ort an der HdM genutzt, um in Person gemeinsam zu arbeiten.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Konzeption</span>"
+    ]
+  },
+  {
+    "objectID": "konzeption.html#themenfindung",
+    "href": "konzeption.html#themenfindung",
+    "title": "2  Konzeption",
+    "section": "2.2 Themenfindung",
+    "text": "2.2 Themenfindung\nZunächst wurde Recherche betrieben und verschiedene Datensätze gesammelt, die möglicherweise fürs Projekt interessant sind. Zum erweiterten Kreis gehörten dann X, Y und Z. Es wurde sich auf diverse Datensätze zum Thema Gaming als Favoriten geeinigt. Außerdem wurden Unfallstatistiken als zweite Möglichkeit gewählt. usw.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Konzeption</span>"
+    ]
+  },
+  {
+    "objectID": "konzeption.html#konzeptionelle-arbeit-in-miro",
+    "href": "konzeption.html#konzeptionelle-arbeit-in-miro",
+    "title": "2  Konzeption",
+    "section": "2.3 Konzeptionelle Arbeit in Miro",
+    "text": "2.3 Konzeptionelle Arbeit in Miro\nIn einem Miro-Board wurden zunächst Spalten für jeweils eine Form von Charts angelegt. In die jeweiligen Spalten wurden Ideen für die Verwendung der Charts in Form von digitalen Post-its auf der Grundlage des Datensatzes eingetragen. Nachdem die Ideen für alle Darstellungsformen gesammelt waren, wurden diese bewertet und entsprechend angeordnet. Je weiter oben eine Idee in der Spalte platziert wurde, desto sinnvoller bzw. wichtiger wurde sie bewertet. Im Folgenden werden alle Spalten für einen Überblick und eine einzelne Spalte für eine detailliertere Betrachtung näher dargestellt.\n\nBILD 1\nBILD 2\n\nBei der Auswahl der Darstellungsformen wurde darauf geachtet, den Anforderungen des Projektes gerecht zu werden. Das bedeutet, dass sowohl in der Anzahl als auch in der Komplexität der Diagramme eine unterschiedliche Anzahl von Möglichkeiten in die Spalten eingetragen wurde. So konnte am Ende aus den sinnvollsten Ideen ausgewählt werden, ohne wichtige Diagrammtypen zu vernachlässigen. Aus allen Spalten wurden schließlich die fünf sinnvollsten Ideen ausgewählt. Später stellte sich heraus, dass auch eine sechste Darstellung für das Storytelling und die Präsentation sinnvoll ist.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Konzeption</span>"
+    ]
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "3  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {

@@ -11,7 +11,8 @@ Zunächst wurde Recherche betrieben und verschiedene Datensätze gesammelt, die 
 ## Konzeptionelle Arbeit in Miro
 In einem Miro-Board wurden zunächst Spalten für jeweils eine Form von Charts angelegt. In die jeweiligen Spalten wurden Ideen für die Verwendung der Charts in Form von digitalen Post-its auf der Grundlage des Datensatzes eingetragen. Nachdem die Ideen für alle Darstellungsformen gesammelt waren, wurden diese bewertet und entsprechend angeordnet. Je weiter oben eine Idee in der Spalte platziert wurde, desto sinnvoller bzw. wichtiger wurde sie bewertet. Im Folgenden werden alle Spalten für einen Überblick und eine einzelne Spalte für eine detailliertere Betrachtung näher dargestellt.
 
-- BILD 1
-- BILD 2
+![](images/DST1.png){width="100%"}
+
+![](images/DST2.png){width="50%"}
 
 Bei der Auswahl der Darstellungsformen wurde darauf geachtet, den Anforderungen des Projektes gerecht zu werden. Das bedeutet, dass sowohl in der Anzahl als auch in der Komplexität der Diagramme eine unterschiedliche Anzahl von Möglichkeiten in die Spalten eingetragen wurde. So konnte am Ende aus den sinnvollsten Ideen ausgewählt werden, ohne wichtige Diagrammtypen zu vernachlässigen. Aus allen Spalten wurden schließlich die fünf sinnvollsten Ideen ausgewählt. Später stellte sich heraus, dass auch eine sechste Darstellung für das Storytelling und die Präsentation sinnvoll ist.

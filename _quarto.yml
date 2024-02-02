@@ -11,10 +11,10 @@ book:
   repo-url: https://github.com/TimmySmq/dst-documenatation # replace ORGNAME and REPONAME
   repo-actions: [edit, issue]
   open-graph: true
-  image: "/images/logo.png"
-  favicon: "/images/logo.png"
+  image: "/images/Logo_DST_wei.png"
+  favicon: "/images/Logo_DST_wei.png"
   search:
-    type: overlay  
+    type: overlay
   chapters:
     - index.qmd
     - intro.qmd
